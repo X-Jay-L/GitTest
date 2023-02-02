@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println("Hello Git2");
         System.out.println("Hello Git3");
         System.out.println("hot-fix test");
+        System.out.println("hot-fix test2");
     }
 }

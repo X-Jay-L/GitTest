@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Master Test");
         System.out.println("hot-fix test");
         System.out.println("hot-fix test2");
+        System.out.println("pull test");
     }
 }
